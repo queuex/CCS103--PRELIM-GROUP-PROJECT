@@ -190,7 +190,6 @@ public class main {
 					System.out.println("[PROGRAM TERMINATED!]");
 					break;
 			}
-		}
-			
+		}		
 	}
 }
