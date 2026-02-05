@@ -180,6 +180,7 @@ public class main {
 				case 2:
 					bookSeat();
 					break;
+					
 				case 3:
 					cancelSeat();
 					break;
