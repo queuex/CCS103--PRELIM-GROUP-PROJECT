@@ -11,7 +11,7 @@ public class main {
 	static void welcome(){
 		System.out.println(" ------------------------------------------------");
 		System.out.println("|-- Welcome to our Cinema Seats Booking System --|");
-		System.out.println("|--  Here is the Current Cinema Seats Layout   --|");
+		System.out.println("|----  CCS103 Prelim Group Research Project  ----|");
 		System.out.println(" ------------------------------------------------\n");	
 	}
 	
@@ -180,7 +180,6 @@ public class main {
 				case 2:
 					bookSeat();
 					break;
-
 				case 3:
 					cancelSeat();
 					break;
